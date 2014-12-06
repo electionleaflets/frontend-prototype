@@ -1,3 +1,38 @@
-/*
+body {
+    margin:0;
+    color:#353A38;
+    font-family:arial, sans-serif;
+}
 
-*/
+header {
+    background-image:url('../images/clouds.png');
+    margin:0 auto;
+    text-align:center;
+}
+
+nav {
+    margin:0;
+    background-color:#353B38;
+}
+
+nav > ul {
+    max-width:900px;
+    margin:0 auto;
+    padding:0.4em;
+    list-style-type:none;
+    text-align:center;
+}
+
+nav > ul > li {
+    color:#FFF;
+    display:inline;
+    padding:0.4em;
+    margin:0.2em;
+}
+
+
+main {
+    max-width:900px;
+    margin:1em auto;
+    
+}
