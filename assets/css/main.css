@@ -36,3 +36,25 @@ main {
     margin:1em auto;
     
 }
+
+main .field {
+    max-width:100%;
+    margin:1em;
+    padding:1em;
+    border:1px solid #DDD;
+}
+
+main .field label {
+    font-size:1.5em;
+    display:block;
+}
+
+main .field input {
+    padding: 5px 4px 2px;
+    border: 1px solid #bfc1c3;
+    color: #0b0c0c;
+    background: white;
+    display: block;
+    font-family: "nta", arial, sans-serif;
+    font-size: 19px;
+}
